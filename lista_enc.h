@@ -1,5 +1,6 @@
 /*///////////////////////////////////////////////////
-// Estrutura: Lista dinâmica duplamente encadeada
+// Estrutura: Lista Genérica
+// Propriedades: Dinâmica; Duplamente Encadeada
 // DanMaker 2022
 *////////////////////////////////////////////////////
 
